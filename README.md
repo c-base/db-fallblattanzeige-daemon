@@ -1,2 +1,3 @@
-# db-fallblattanzeige-deamon
-deamon for running db-hack rollerdex display. 
+# db-fallblattanzeige-daemon
+
+daemon for running db-hack rollerdex display. 
